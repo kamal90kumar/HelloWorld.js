@@ -1,2 +1,1 @@
-# HelloWorld.js
-Javascript first Repo
+Console.log("Hello World from Git Hub");
